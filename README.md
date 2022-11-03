@@ -8,5 +8,5 @@ Tugas: bikin template di branch, bagian modal
 ### 2. Michael
 Tugas: bikin section course
 
-### 3. Michael
+### 3. Daf Akwal Reynaldi
 Tugas: bikin section course
